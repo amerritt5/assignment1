@@ -91,6 +91,14 @@ body {
     justify-content: center;
    }
 
+   .input-email {
+    height: 66px;
+    min-width: 500px;
+    color: #8c8c8c;
+    font-size: 1.1rem;
+    padding-left: 10px;
+   }
+
    .billsflix-title {
     margin-top: 2em;
     font-size: 4rem;
